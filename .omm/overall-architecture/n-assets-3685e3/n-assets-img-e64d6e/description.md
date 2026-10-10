@@ -1,0 +1,27 @@
+実在パス: `assets/img`。38ファイル。
+
+- `assets/img/apple-touch-icon.png`
+- `assets/img/clients/client-1.png`
+- `assets/img/clients/client-2.png`
+- `assets/img/clients/client-3.png`
+- `assets/img/clients/client-4.png`
+- `assets/img/clients/client-5.png`
+- `assets/img/clients/client-6.png`
+- `assets/img/clients/client-7.png`
+- `assets/img/clients/client-8.png`
+- `assets/img/cta-bg.jpg`
+- `assets/img/favicon.png`
+- `assets/img/hero-img.png`
+- `assets/img/logo.png`
+- `assets/img/masonry-portfolio/masonry-portfolio-1.jpg`
+- `assets/img/masonry-portfolio/masonry-portfolio-2.jpg`
+- `assets/img/masonry-portfolio/masonry-portfolio-3.jpg`
+- `assets/img/masonry-portfolio/masonry-portfolio-4.jpg`
+- `assets/img/masonry-portfolio/masonry-portfolio-5.jpg`
+- `assets/img/masonry-portfolio/masonry-portfolio-6.jpg`
+- `assets/img/masonry-portfolio/masonry-portfolio-7.jpg`
+- `assets/img/masonry-portfolio/masonry-portfolio-8.jpg`
+- `assets/img/masonry-portfolio/masonry-portfolio-9.jpg`
+- `assets/img/portfolio/app-1.jpg`
+- `assets/img/portfolio/books-1.jpg`
+- `assets/img/portfolio/branding-1.jpg`
